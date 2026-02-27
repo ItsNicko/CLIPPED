@@ -110,3 +110,10 @@ Every 5–10 minutes
 ```
 
 ## Weekly Poll
+<!--
+Source - https://stackoverflow.com/a/14747656
+Posted by Tieme, modified by community. See post 'Timeline' for change history
+Retrieved 2026-02-26, License - CC BY-SA 4.0
+-->
+
+<img src="Poll.png" alt="poll image" width="400"/>
